@@ -1,5 +1,5 @@
 # Reactチュートリアル
-[https://ja.reactjs.org/tutorial/tutorial.html]
+[リンク](https://ja.reactjs.org/tutorial/tutorial.html)
 
 Reactのチュートリアルで実装した三目並べゲームです。
 `npm start`で実行できます。
